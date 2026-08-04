@@ -1,5 +1,5 @@
 num = 100
-if (num % 2) == 0:
-   print("{0} is Even")
+if (num % 2) != 0:
+   print("{num} is odd")
 else:
-   print("{0} is Odd")
+   print("{num} is Even")

@@ -5,5 +5,5 @@ result=[]
 for i in range(len(a)):
     result.append(a[i]+ b[i])
 
-print("sum of two lists: ", result)
+print("sum of two lists: ",result)
 

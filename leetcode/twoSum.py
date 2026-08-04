@@ -14,6 +14,7 @@ def twoSum(nums, target):
             hash_map[num]=i
             
 print(twoSum(nums, target))
+print(twoSum.__doc__)
                 
 
         

@@ -9,4 +9,4 @@ def prime(n):
     
 num = int(input("Enter the number:"))
 print("Answer is ", prime(num))
-            
+                

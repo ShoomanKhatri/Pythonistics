@@ -1,0 +1,6 @@
+x = int(3.4)
+y = int(1)
+z = int("6")
+print(type(x))
+print(type(y))
+print(type(z))
